@@ -39,6 +39,20 @@ nav{
     text-decoration: none;
     list-style-type: none;
 }
+h1{
+font-size: 50px;
+background-color: violet;
+}
+li{
+    border: dashed 1px black;
+    
+}
+.de{
+    font-family: monospace;
+}
+.ulpo{
+    list-style-type: circle;
+}
 ul{
     list-style-type:none;
 }

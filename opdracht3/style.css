@@ -1,2 +1,44 @@
-
-
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  header li {
+    display: flex;
+    justify-content: row;
+    display: inline-block;
+  }
+  header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  header li a:hover {
+    background-color: yellow;
+  }
+  footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+  }
+  footer li {
+    display: flex;
+    justify-content: row;
+    display: inline-block;
+  }
+  footer li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  footer li a:hover {
+    background-color: purple;
+  }
