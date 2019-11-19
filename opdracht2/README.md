@@ -88,7 +88,7 @@ Maak voor onderstaande taken telkens per taak één CSS regel aan met dus één 
 - [ ] 7. Geef alleen het logo in de footer een border van 1px solid black
 - [ ] 8. Maak van de nav in de header en de ul in die nav een flexbox container: (display:flex;) gebruik 1 CSS regel en Zorg ervoor dat het menu in de footer géén flexbox container wordt.
 - [ ] 9. Geef links van het menu in de header een padding van 20px;
-- [ ] 10. Haal bij alle links die in een nav zitten de underline weg (text-decoration: none)
+<!-- - [ ] 10. Haal bij alle links die in een nav zitten de underline weg (text-decoration: none) -->
 - [ ] 11. Haal bij de undordered lists in de header en footer de bullets weg (list-style-type:none;)
 - [ ] 12. Geef alle h1 elementen die direct afstammen van een div een font-size vanm 50px en een achtergrondkleur naar keuze
 - [ ] 13. Geef alle list items die direct afstammen van een ul een border van 1px dashed black

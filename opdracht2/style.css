@@ -2,7 +2,26 @@
 html, body{
     height: 100%;
 }
+header{
+    width:100%;
+    height:20%;
+}
+main{
+    width:100%;
+    height:80%;
+    background-color: yellow;
 
+}
+footer{
+    width:100%;
+    height:20%;
+}
+#mainlogo{
+    width:400px;
+}
+#footerlogo{
+    border: solid 1px black;
+}
 body{
     display: flex;
     flex-direction: column;
@@ -10,6 +29,18 @@ body{
 
 img{
     width: 200px;
+    margin: 20px;
+}
+#navmenu{
+    display: flex;
+    padding-left: 20px;
+}
+nav{
+    text-decoration: none;
+    list-style-type: none;
+}
+ul{
+    list-style-type:none;
 }
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
